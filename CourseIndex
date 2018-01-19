@@ -1,0 +1,347 @@
+Course : Python(Basic & Advanced Programming)
+
+Overview :
+
+In this Python training course, students learn to program in Python. 
+The course is aimed at students new to the language who may or may not have experience with
+other programming languages.
+
+This Python course is taught using Python 3;
+however, differences between Python 2 and Python 3 are noted. 
+
+Goals :
+Learn how Python works and what it's good for.
+Understand Python's place in the world of programming languages.
+Learn to work with and manipulate strings in Python.
+Learn to perform math operations with Python.
+Learn to work with Python sequences: lists, arrays, dictionaries, and sets.
+Learn to collect user input and output results.
+Learn flow control processing in Python.
+Learn to write to and read from files using Python.
+Learn to write functions in Python.
+Learn to handle exceptions in Python.
+Learn to work with dates and times in Python.
+Learn to work with the Collections module.
+Learn about mapping and filtering and lambda functions.
+Learn advanced sorting.
+Learn to work with regular expressions in Python.
+Learn to work with databases, CSV files, JSON, and XML.
+Learn to write object-oriented code in Python.
+Learn to test and debug your Python code.
+Learn about Unicode and text encoding.
+
+Course Outline :
+
+1. Introduction to Python 
+	1.1  Overview
+	1.2  History
+	1.3  Python Features
+	1.4  Environment Setup
+	1.5  Running Python
+	1.6  IDLE 
+	1.7  Commercial and Free Python IDEs
+
+2. Basic Syntax
+    2.1  Interactive Mode
+    2.2  Script Mode
+    2.3  Python Identifiers
+    2.4  Reserved Words
+    2.5  Lines and Indentation
+    2.6  Multi-Line Statements
+    2.7  Quotations in Python
+    2.8  Comments in Python
+    2.9  Using Blank Lines
+    2.10 User inputs
+    2.11 Command Line Arguments
+
+3. Variable Types
+	3.1 Creating variables 
+	3.2 Assigning Values to Variables
+	3.3 Accessing variables
+	3.4 Multiple Assignment
+
+4. Downloading, Installating  & Configure Various Python Tools
+	4.1 Python 2.x or 3.x on various OS platforms 
+	like : Windows, Linux, Unix & MacOs
+	4.2 Pycharm 
+	4.3 Anaconda & Spyder
+	
+5. Standard Data Types
+	5.1 Numbers
+	5.2 Strings
+	5.3 Lists
+	5.4 Tuples
+	5.5 Dictionaries
+	5.6 Sets
+
+6. Python Data Types - Numbers
+	6.1 int 
+	6.2 float
+	6.3 complex
+	6.4 Number type conversions
+	6.5 Mathematical Functions
+	6.6 Random Number Functions
+	6.7 Trigonometric Functions
+	6.8 Mathematical Constants
+
+7. Python Data Types -  Strings
+	7.1 Accessing values in strings
+    7.2 updating strings
+    7.3 Escape Character
+    7.4 String Special Operator
+    7.5 String Formatting Operator
+    7.6 Triple Quotes
+    7.7 Unicode String
+    7.8 Built-in String Methods
+    
+8. Python Data Types - Lists
+	8.1 Creating the lists
+    8.2 Accessing the values in lists
+    8.3 Updating Lists
+    8.4 Deleting List Elements
+    8.5 Basic List Operators
+    8.6 Indexing, Slicing and Matrixes
+    8.7 Built-in List Functions & Methods
+
+9. Python Data Types - Tuples 
+   9.1 Creating the tuple
+   9.2 Accessing values in Tuples
+   9.3 Updating Tuples
+   9.4 Delete Tuples Elements
+   9.5 Basic Tuples Operations
+   9.6 Indexing, Slicing and Matrixes
+   9.7 Built-in Tuple Functions
+   
+10. Python Data Types - Dictionary
+	10.1 Creating a Dictionary
+    10.2 Accessing Values in Dictionary
+    10.3 Updating Dictionary 
+    10.4 Deleting Dictionary Elements
+    10.5 Properties of Dictionary Keys
+    10.6 Built-in Dictionary Functions & Methods
+
+11. Python Data Types - Sets
+	11.1 Creating A Set
+    11.2 Accessing A Set
+    11.3 Modifying A Set
+    11.4 Removing Items From A Set
+    11.5 Common Set Operations
+    11.6 Built-in Set Functions & Methods
+
+12. Data Type Conversion
+	12.1 int()
+	12.2 float()
+	12.3 str()
+	12.4 bin()
+	12.5 hex()
+	12.6 ord()
+	 
+13. Python Operators:
+	13.1. List of Operators 
+	13.2. Arithmetic Operators
+	13.3. Comparison Operators
+	13.4. Assignment Operators
+	13.5. Bitwise Operators
+	13.6. Logical Operators
+	13.7. Membership Operators
+	13.8. Identity Operators
+	13.9. Operators Precedence
+
+14. Decision Making 
+	14.1. Single Statement Suites
+	14.2. if statements
+	14.3. if else statements
+	14.4. if elif statements 
+	14.5. Nested statements
+
+15. Python Loops
+	15.1. Various Types of Loops
+	15.2. while loop
+	15.3. for loop
+	15.4. nested loop
+	15.5. Loop Control Statements
+	15.6. break statement
+	15.7. continue statement
+	15.8. pass statement
+	15.9. Iterator and Generator
+
+16. Python Functions
+    16.1 Defining a Function
+    16.2 Calling a Function
+    16.3 Pass by reference vs value
+    16.4 Function Arguments
+    16.5 Required Arguments
+    16.6 Keyword Arguments
+    16.7 Default Arguments
+    16.8 Variable-length arguments
+    16.9 The anonymous Functions
+    16.10 The return Statement
+    16.11 Scope of Variables
+    16.12 Global vs Local Variables
+
+17. Working with PIP 
+	17.1 Download PIP 
+	17.2 Configure Environment Variables
+	17.3 Search Modules using PIP
+	17.4 Download & Install Modules using PIP
+	17.5 Various examples of PIP 
+	
+18. Downloading, Installating of Various modules	
+	18.1 The import statement
+	18.2 The from import statement
+	18.3 The from import * statement
+	18.4 Executing modules as scripts
+	18.5 Locating Modules
+	18.6 The PYTHONPATH variable:
+	18.7 Namespace and Scoping
+	18.8 The dir() function
+	18.9 The globals() and locals()Functions
+	18.10 The reload() functions
+	18.11 Packages in Python
+
+19. Modules [i.e. Date, Time & Calendar]
+	19.1 What is Tick?
+    19.2 What is TimeTuple?
+    19.3 Getting Current Time
+    19.4 Getting Formatted Time 
+    19.5 Getting Calendar for a month
+    19.6 The time module
+    19.7 The Calendar Module
+    19.8 Other Modules & Functions
+	
+20. File & Directory Mgmt Python
+	20.1 Printing to the screen
+	20.2 Reading Keyword Input
+	20.3 The input Function
+	20.4 Opening and Closing files
+	20.5 The open function
+	20.6 The file Object Attributes
+	20.7 The close() Method
+	20.8 Reading and Writing Files
+	20.9 The write() method
+	20.10 The read() method
+    20.11 File Positions
+    20.12 Renaming and Deleting Files
+    20.13 The rename() Method & remove() method
+    20.14 Directories in Python
+    20.15 The mkdir() method
+    20.16 The chdir() method
+    20.17 The getcwd() method
+    20.18 The rmdir() method
+    20.19 File & Directory Related Methods
+
+21. Error & Exceptions Handling in Python
+	21.1 Assertions in Python
+	21.2 The assert statement
+	21.3 What is exception?
+	21.4 The except clause with no exceptions
+	21.5 The except clause with multiple exceptions
+	21.6 The try-finally clause
+	21.7 Argument of an exceptions
+	21.8 Raising an exceptions
+	21.9 User defined exceptions
+	
+22. Regular Expressions	
+	22.1 Basic Patterns which match single chars
+	22.2 Compilation flags
+	22.3 The match function
+	22.4 The search function
+	22.5 Matching versus searching
+	22.6 Search and Replace
+	22.7 Regular expression modifiers : option flags
+	22.8 Regular expression patterns
+	22.9 Regular expression examples
+	22.10 Character classes
+	22.11 Repetition cases
+	22.12 Non-greedy repetition
+	22.13 Grouping with parentheses
+	22.14 Backreferences
+	22.15 Alternatives
+	22.16 Anchors 
+	22.17 Special Syntax with Parentheses
+
+23. CGI Programming	
+	23.1 What is cgi?
+	23.2 Web Browsing
+	23.3 CGI Architecture Diagram
+	23.4 Web Server Support and Configuration
+	23.5 First CGI Program
+	23.6 HTTP Header
+	23.7 CGI Environment Variables
+	23.8 GET and POST methods
+	23.9 Passing Information using GET method
+	23.10 Simple URL example: Get Method
+	23.11 Simple FORM example : Get Method
+	23.12 Passing Information using POST method
+	23.13 Passing Checkbox Data to CGI Program
+	23.14 Passing Radio Button Data to CGI Program
+	23.15 Passing Text Area Data to CGI Program
+	23.16 Passing Drop Down Box data to CGI Program
+	23.17 Using Cookies in CGI
+	23.18 Setting up Cookies & Retrieving Cookies
+	23.19 File Upload example
+	23.20 Raise a “File Download” Dialog box	
+	
+24. GUI Development	
+	24.1 Download and Install GUI modules
+	24.2 Working with tkinter
+	24.3 Creating GUI applications
+	24.4 Working with widgets
+	24.5 Creating small GUI applications like  Calculator etc...
+
+25. Working with the Databases
+	25.1 What is MySQL?
+	25.2 Database Connection
+	25.3 Creating Database Table
+	25.4 Insert operation
+	25.5 Read operation
+	25.6 Update operation
+	25.7 Delete operation
+	25.8 Performing Transactions
+	25.9 Commit Operation
+	25.10 Rollback Operation
+	25.11 Error Handling
+
+26. Working With Mail Server[SMTP]
+	26.1 Working with SMTP e-mail Server
+	26.2 Mail Servers : 
+		26.2.1 Sendmail
+		26.2.2 Postfix
+	26.3 Sending an HTML e-mail using Python
+	26.4 Sending Attachments as an e-mail
+	
+27. Working with XML files 
+	27.1 Introduction to xml
+	27.2 Difference between xml & html 
+	27.3 Import the XML API modules 
+	27.4 Working with xml API’s i.e. SAX & DOM
+	27.5 Difference between SAX & DOM API’s.
+	27.6 Reading the xml files from python code
+	27.7 Various examples with xml API’s.
+
+28. Object Oriented Programming [OOPS]	
+	28.1 Overview of OOPS:
+	28.2 Terminology:
+		28.2.1 class
+		28.2.1 class variable
+		28.2.1 Data Member
+		28.2.1 Function Overloading
+		28.2.1 Instance Variable
+		28.2.1 Inheritance
+		28.2.1 Instance
+		28.2.1 Instantiation
+		28.2.1 Method
+		28.2.1 Object
+		28.2.1 Operator Overloading
+
+	28.3 Creating Classes
+	28.4 Creating Instance Objects
+	28.5 Accessing Attributes
+	28.6 Built-in Class Attributes
+	28.7 Destroying Objects (Garbage Collection)
+	28.8 Class Inheritance
+	28.9 Overriding Methods
+	28.10 Base Overloading Methods
+	28.11 Overloading Operators
+	28.12 Data Hiding
+#========================================================#
