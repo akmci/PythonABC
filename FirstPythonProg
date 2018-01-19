@@ -1,0 +1,23 @@
+
+#!/usr/bin/python 
+
+# Single Line Comment 
+
+firstName = 'Guido'
+_MiddleName = "Van"
+Last_Name = '''Rossum'''
+_Version = '3.6'
+Duration = 40
+
+# Accessing Variables 
+
+print(firstName)
+print("")
+print(_MiddleName)
+print("")
+print(Last_Name)
+print("")
+print(_Version)
+print("")
+print(Duration)
+print("")
