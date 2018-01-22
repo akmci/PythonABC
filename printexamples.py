@@ -8,7 +8,7 @@ _007_PyCharm = 200
 
 print ("Lets access Camel-Case Style Variable ",highScoreValue, end="##")
 
-print (a,"Access a lower case variable")
+print (a,"Access a lower case variable",sep="#")
 
 print ("Access a upper case ",A,"variable")
 
